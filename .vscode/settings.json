@@ -1,0 +1,9 @@
+{
+  "search.exclude": {
+    ".jekyll-cache": true,
+    "_site": true
+  },
+  "files.exclude": {
+    ".jekyll-cache": true
+  }
+}
