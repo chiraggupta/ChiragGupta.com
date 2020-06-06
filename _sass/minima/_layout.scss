@@ -152,3 +152,15 @@
     }
   }
 }
+
+.about-header-image {
+  display: block;
+  margin: auto;
+  width: 20rem;
+  border-radius: 0.2rem;
+
+  @include media-query($small-screen) {
+    width: 100%;
+    border-radius: 1%;
+  }
+}
