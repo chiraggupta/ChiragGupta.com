@@ -5,7 +5,7 @@ date: 2020-06-06 10:00:01 +0100
 categories: blog
 ---
 
-I used to blog regularly back in the day when people followed RSS feeds instead of timelines and Google Reader was still a thing. I [blogged for almost a decade](./about) on various platforms before giving up to the ease and brevity of Twitter.
+I used to blog regularly back in the day when people followed RSS feeds instead of timelines and Google Reader was still a thing. I blogged for almost a decade on various platforms before giving up to the ease and brevity of Twitter.
 
 Over last few weeks, there were multiple moments when I felt like writing, but Twitter just didn't seem like the right place because I wanted to write something longer, something I could come back to in the future. I considered using Medium but I want more control over my posts. Using popular blogging tools has resulted in my posts spread across four different websites. I want something self-hosted this time.
 

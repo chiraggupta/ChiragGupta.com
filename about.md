@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Walking on the beach with my two daughters]({{ site.baseurl }}/assets/cg_beach_avatar.jpg){: .about-header-image}
 
-I am a software developer, a recovering Apple fanboy and a new Zelda fan. I was born in a satellite city near Delhi, India but since then I've lived in five other cities. Presently, I live in London with my wonderful wife and daughters.
+I am a software developer, a recovering Apple fanboy and a new Zelda fan. I was born in a [satellite city](https://en.wikipedia.org/wiki/Ghaziabad) near Delhi, India but since then I've lived in five other cities. Presently, I live in London with my wonderful wife and daughters.
 
 I've been programming casually since 1998 and professionally since 2007. I may even have worked on something you directly or indirectly used in the past. I work at [Skyscanner](https://www.skyscanner.net) and I've been here for over 2 years. Presently I'm focused on making our mobile website faster and easier to use.
 
