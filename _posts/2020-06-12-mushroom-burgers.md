@@ -25,8 +25,9 @@ _Makes 4 burgers_
 - 1 egg
 - 2 tbsp oil
 - 2 cloves of garlic (or 1 tsp garlic granules)
-- italian seasoning
-- black pepper
+- 1 tsp italian seasoning
+- 1 tsp black pepper
+- 1/2 tsp salt
 
 #### Optional
 
