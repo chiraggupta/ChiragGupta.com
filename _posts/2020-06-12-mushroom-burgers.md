@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mushroom Burgers recipe'
+title: 'Mushroom Burgers'
 date: 2020-06-12 10:00:01 +0100
 categories: recipes
 ---
