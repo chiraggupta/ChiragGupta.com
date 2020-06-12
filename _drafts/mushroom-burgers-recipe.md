@@ -16,12 +16,12 @@ _Makes 4 burgers_
 
 - 400g mushrooms
 - 1 large onion
-- 50g mature cheddar cheese, grated
+- 50g mature cheddar cheese
 - 3 heaped tbsp rolled oats
 - 4 heaped tbsp breadcrumbs
 - 1 egg
 - 2 tbsp oil
-- 2 cloves of garlic, minced (or 1 tsp garlic granules)
+- 2 cloves of garlic (or 1 tsp garlic granules)
 - italian seasoning
 - black pepper
 
@@ -34,27 +34,40 @@ _Makes 4 burgers_
 
 ## Recipe
 
-- Roughly dice the onion into small pieces
+### Get everything ready
+
 - Dice the mushrooms into 1-2 cm pieces
+- Roughly dice the onion into small pieces
+- Grate the cheese (dicing works too)
+- Mince the garlic
+
+### Cook mushrooms
+
 - Heat one tbsp of oil in a pan (large enough to fit all the mushrooms)
-- Add onions, garlic, a pinch of salt and cook for 5-6 minutes till they are soft and brown
+- Add onions, garlic, a pinch of salt and cook for 5 minutes or until they are soft and brown
 - Add mushrooms and cook on medium flame. In a few minutes they will start releasing water.
 - Keep cooking till all the water has dried up. This takes a long time (15+ min) but it's totally worth the wait. The burgers don't taste nearly as good if the mushrooms remain watery.
 - Add salt, black pepper and italian seasoning to the cooked mushrooms. Don't forget to taste and adjust if needed.
 - Transfer the mushrooms to a mixing bowl and let them cool for a couple of minutes.
+
+### Prepare the mixture
+
 - Add cheese, eggs and oats to the mushrooms and mix well.
 - Add breadcrumbs one tablespoon at a time and mix. You are looking for a mixture that's neither too dry, nor too wet. You should be able to roll it into balls without them falling apart.
 - I usually put the mixture in the freezer for 30 minutes at this time but you can skip this step if you can't wait.
+
+### Make burgers
+
 - Brush a pan with oil and bring it to medium heat.
 - Meanwhile divide the mixture into four portions.
 - Take each portion and roll it into a ball. Make sure it's fairly tight and then slightly flatten it on your palm.
 - Put the burger onto the pan, press it gently and let it cook for at least 5 minutes on each side. It should be nicely browned and should not stick to the bottom before you turn it over.
 - Let the burgers cool down for a couple of minutes and you are ready to serve!
 
-### To Serve
+## Serve
 
 I like to serve these on brioche burger buns with lettuce, mayonnaise and a dash of ketchup. You can use any buns and condiments but remember that these are softer than regular burgers so crusty rolls may not be a great option.
 
 ## Nutritional Information
 
-Each burger (patty only) contains about 200 calories and 8 grams of protein. They are light, healthy and very tasty!
+Each burger (patty only) contains about 200 calories, 8 grams of protein, 14g carbs and 13g fat. They are light, healthy and very tasty!
