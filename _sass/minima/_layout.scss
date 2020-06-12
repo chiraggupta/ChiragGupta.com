@@ -141,10 +141,11 @@
   }
 
   h3 {
-    @include relative-font-size(1.625);
+    font-weight: 600;
+    @include relative-font-size(1.25);
 
     @include media-query($small-screen) {
-      @include relative-font-size(1.375);
+      @include relative-font-size(1.125);
     }
   }
 
