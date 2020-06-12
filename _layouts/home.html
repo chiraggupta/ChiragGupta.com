@@ -20,13 +20,18 @@ layout: default
           {{ post.title | escape }}
         </a>
       </h3>
+      {%- if post.content contains site.excerpt_separator -%}
       <div class="post-excerpt" itemprop="articleBody">
         {{ post.excerpt }}
       </div>
-
       <a class="post-read-more" href="{{ post.url | relative_url }}">
         CONTNUE READING
       </a>
+      {% else %}
+      <div class="post-excerpt" itemprop="articleBody">
+        {{ post.content }}
+      </div>
+      {%- endif -%}
 
     </li>
     {%- endfor -%}

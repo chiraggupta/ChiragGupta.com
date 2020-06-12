@@ -31,6 +31,8 @@ social_links_in_footer: false
 
 goat_counter: chirag
 
+excerpt_separator: <!--end-excerpt-->
+
 # Build settings
 # theme:
 plugins:
