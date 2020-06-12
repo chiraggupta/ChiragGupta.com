@@ -168,3 +168,15 @@
     border-radius: 1%;
   }
 }
+
+.post-image {
+  display: block;
+  margin: auto;
+  width: 40rem;
+  border-radius: 0.2rem;
+
+  @include media-query($small-screen) {
+    width: 100%;
+    border-radius: 1%;
+  }
+}
