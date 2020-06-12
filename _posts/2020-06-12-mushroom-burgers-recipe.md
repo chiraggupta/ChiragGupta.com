@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Mushroom Burgers recipe'
+date: 2020-06-12 10:00:01 +0100
 categories: recipes
 ---
 
@@ -64,7 +65,7 @@ _Makes 4 burgers_
 - Put the burger onto the pan, press it gently and let it cook for at least 5 minutes on each side. It should be nicely browned and should not stick to the bottom before you turn it over.
 - Let the burgers cool down for a couple of minutes and you are ready to serve!
 
-## Serve
+### Serve
 
 I like to serve these on brioche burger buns with lettuce, mayonnaise and a dash of ketchup. You can use any buns and condiments but remember that these are softer than regular burgers so crusty rolls may not be a great option.
 
