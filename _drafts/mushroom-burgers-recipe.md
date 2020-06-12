@@ -8,7 +8,7 @@ I grew up in a vegetarian household and burgers meant mince vegetable patties. I
 
 Sometime last year I was looking for what to make for Sunday dinner and stumbled upon a few veggie burger recipes that got me interested. The first attempt was a bean burger and that wasn't bad at all so I started trying out different veggie burgers recipes every Sunday. After a few trials and errors I landed onto my new favourite veggie burger recipe. It's based on [a recipe from Chef John at FoodWishes](https://www.youtube.com/watch?v=Ub8F-ACkkYU) but I've tweaked the process and ingredients to my liking. These burgers are healthy, tasty and everyone at home really enjoys them so give it a try.
 
-![Mushroom burger served with brioche bun and lettuce]({{ site.baseurl }}/assets/mushroom_burgers_recipe.jpg){: .about-header-image}
+![Mushroom burger served with brioche bun and lettuce]({{ site.baseurl }}/assets/mushroom_burgers_recipe.jpg){: .post-image}
 
 ## Ingredients
 
