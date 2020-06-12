@@ -11,6 +11,8 @@ Sometime last year I was looking for what to make for Sunday dinner and stumbled
 
 ![Mushroom burger served with brioche bun and lettuce]({{ site.baseurl }}/assets/mushroom_burgers_recipe.jpg){: .post-image}
 
+<!--end-excerpt-->
+
 ## Ingredients
 
 _Makes 4 burgers_
