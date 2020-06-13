@@ -70,7 +70,8 @@ _Makes 4 burgers_
 
 ### Serve
 
-I like to serve these on brioche burger buns with lettuce, mayonnaise and a dash of ketchup. You can use any buns and condiments but remember that these are softer than regular burgers so crusty rolls may not be a great option.
+- Toast the insides of burger buns on a pan (you can use a little butter but it's not essential). I prefer using brioche buns but any buns or soft rolls would do. One thing to note is that these are softer than regular meat patties so crusty rolls may not be a great option.
+- Serve with lettuce, mayonnaise and a dash of ketchup!
 
 ## Nutritional Information
 
