@@ -5,9 +5,9 @@ date: 2020-06-12 10:00:01 +0100
 categories: recipes
 ---
 
-I grew up in a vegetarian household and burgers meant mince vegetable patties. I loved eating them but the flavour profile was all about the crunchy exterior and spices and that made them feel like a fried snack. After I discovered real burgers, I pretty much stopped ordering vegetarian burgers. I don't think I would hate a McVeggie or the good old McAloo Tikki, it's just that there are much better options easily available at good burger chains, independent burger restaurants and farmer's markets.
+I grew up in a vegetarian household and burgers meant mince vegetable patties. I loved eating them but the flavour profile was all about the crunchy exterior and spices, which made them taste like a fried snack. After I discovered real burgers, I pretty much stopped ordering vegetarian burgers. I don't think I would hate a McVeggie or the good old McAloo Tikki, it's just that there are much better options easily available at good burger chains, independent burger restaurants and farmer's markets.
 
-Sometime last year I was looking for what to make for Sunday dinner and stumbled upon a few veggie burger recipes that got me interested. The first attempt was a bean burger and that wasn't bad at all so I started trying out different veggie burgers recipes every Sunday. After a few trials and errors I landed onto my new favourite veggie burger recipe. It's based on [a recipe from Chef John at FoodWishes](https://www.youtube.com/watch?v=Ub8F-ACkkYU) but I've tweaked the process and ingredients to my liking. These burgers are healthy, tasty and everyone at home really enjoys them so give it a try.
+Sometime last year I stumbled upon a few veggie burger recipes that got me interested. I tried making a bean burger and that wasn't bad at all so I started trying out different veggie burger recipes every Sunday. After a few trials and errors I landed onto my new favourite veggie burger recipe. It's based on [a recipe from Chef John at FoodWishes](https://www.youtube.com/watch?v=Ub8F-ACkkYU) but I've tweaked the process and ingredients to my liking. These burgers are healthy, tasty and everyone at home really enjoys them so give it a try.
 
 ![Mushroom burger served with brioche bun and lettuce]({{ site.baseurl }}/assets/mushroom_burgers_recipe.jpg){: .post-image}
 
@@ -65,7 +65,7 @@ _Makes 4 burgers_
 - Brush a pan with oil and bring it to medium heat.
 - Meanwhile divide the mixture into four portions.
 - Take each portion and roll it into a ball. Make sure it's fairly tight and then slightly flatten it on your palm.
-- Transfer it onto the heated pan, press it gently and let it cook for at least 5 minutes on each side. It should be nicely browned and should not stick to the bottom before you turn it over.
+- Put it on the heated pan, press it gently and let it cook for at least 5 minutes on each side. It should be nicely browned and should not stick to the bottom before you turn it over.
 - Once you cook them all, cool them down for a couple of minutes and you are ready to serve!
 
 ### Serve
