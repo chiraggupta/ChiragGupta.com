@@ -60,13 +60,13 @@ _Makes 4 burgers_
 - Add breadcrumbs one tablespoon at a time and mix. You are looking for a mixture that's neither too dry, nor too wet. You should be able to roll it into balls without them falling apart.
 - I usually put the mixture in the freezer for 30 minutes at this time but you can skip this step if you can't wait.
 
-### Make burgers
+### Make the patties
 
 - Brush a pan with oil and bring it to medium heat.
 - Meanwhile divide the mixture into four portions.
 - Take each portion and roll it into a ball. Make sure it's fairly tight and then slightly flatten it on your palm.
-- Put the burger onto the pan, press it gently and let it cook for at least 5 minutes on each side. It should be nicely browned and should not stick to the bottom before you turn it over.
-- Let the burgers cool down for a couple of minutes and you are ready to serve!
+- Transfer it onto the heated pan, press it gently and let it cook for at least 5 minutes on each side. It should be nicely browned and should not stick to the bottom before you turn it over.
+- Once you cook them all, cool them down for a couple of minutes and you are ready to serve!
 
 ### Serve
 
