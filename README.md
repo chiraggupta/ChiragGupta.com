@@ -1,3 +1,5 @@
+Personal blog/website [ChiragGupta.com](https://ChiragGupta.com)
+
 # Setup
 
 - [Jekyll 4.1.0](https://jekyllrb.com/)
