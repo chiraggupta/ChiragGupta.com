@@ -18,3 +18,7 @@ Personal blog/website [ChiragGupta.com](https://ChiragGupta.com)
 - Serves the website on `localhost:4000`
 - `--host 0.0.0.0`: Allows other devices on your network to access
 - `--drafts`: Displays posts in `__drafts` folder as if they were published today
+
+## Updating dependancies
+
+`bundle update`
