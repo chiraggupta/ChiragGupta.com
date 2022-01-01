@@ -45,7 +45,7 @@ While I persnally consider this as a work-life balance indicator, you can to twe
   
 I started with equal weights and realised that I’ve generally optimised my career for growth and not factoring for that doesn’t make sense. I’ve often changed jobs and teams because I was passionate about an industry or technology. This reduced the impact I could have had, especially in the first few months, but got me invaluable experience and I never felt bad about the decision.
 
-I've set the weight for growth to 40% and the other three indicators to 20%. Anything below 50 marks a wasted period and ideally you should try to stay above 75. With these weights in place, the combinations become quite interesting and I've shared a few examples below.
+I've set the weight for growth to 40% and the other three indicators to 20%. Anything below 50 marks a wasted period and ideally you should try to stay above 75. With these weights in place, the combinations become quite interesting and I've shared a few examples ahead.
 
 #### Impact + Culture 🔴
 You love the mission and put ridiculous hours at work but you stay within your area of expertise and don’t look for opportunities to grow. During this period people often feel they are doing great but I consider this as wasted period where you toil and increase chances of burnout.
@@ -71,8 +71,10 @@ The whole point of this exercise was to apply this to my own career and after sp
 How does my career look on a graph?
 {: .post-image-label}
 
-The period that stood out to me was the first 4.5 years of my career. I went straight from university to a large software company, learned a lot but also got rather comfortable with my role and team. I stayed in a bubble where most of my friends worked at the same place and it made it really hard to see what I was missing out. I waited too long to switch and ended up picking the first job that felt different and paid better. It was clearly a rushed decision and ended up being much worse for my career. Until I switched jobs yet again, I had little idea of what a rewarding and high growth job looks like. This is why I really appreciate folks who have worked hard to build all the software career communities that make it easy to see what you might be missing. 
+The period that stood out to me was the first 4.5 years of my career. I went straight from university to a large software company, learned a lot but also got rather comfortable with my role and team. I stayed in a bubble where most of my friends worked at the same place and it made it really hard to see what I was missing out. I waited too long to switch and ended up picking the first job that felt different and paid better. It was clearly a rushed decision and ended up being much worse for my career. Until I switched jobs yet again, I had little idea of what a rewarding and high growth job looks like and that made it hard to understand what I was missing.
 
-I plan to use some of the learnings from this exercise to help others in their careers. I would highly recommend you to spend some time reflecting on your career too, I know it’ll worth the effort!
+## Final thoughts
+
+Some of my learnings from this exercise will definitely end up in my toolbox for helping folks make the most out of their careers. If you found this interesting, I would highly recommend spending some time reflecting on your career too, it's totally worth the effort.
 
 If you do, I’ve [shared a Google Sheets template](https://docs.google.com/spreadsheets/d/1Hflbt-c57LBrW5hRIFMoYeeDyBbTok8xK6A0_TxtuqI/edit?usp=sharing) based on what I used to gather data and plot charts above. I would love to hear about your results!
