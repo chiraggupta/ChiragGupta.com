@@ -10,6 +10,7 @@ Personal blog/website [ChiragGupta.com](https://ChiragGupta.com)
   - Build command: `jekyll build`
   - Publish directory: `_site/`
   - Environment variables: `JEKYLL_ENV=production`
+  - 🔜 Cloudflare
 
 ## Running locally
 
