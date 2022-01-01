@@ -1,11 +1,13 @@
 ---
 layout: post
 title: How to reflect on your career?’
-date: 2021-12-27 10:00:01 +0100
+date: 2022-01-01 10:00:01 +0100
 categories: blog
 ---
 
 A few years ago my wife started a yearly journal where we write about the last year and set goals for the new year. I was going about doing my bit for 2021 but that spiralled me into reflecting upon my whole career. I read [this excellent article about wasting your career](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable), again, and realised that while it's excellent advice, the indicators don’t exactly match my criteria of defining a wasteful period in my career. That combined with a week with nothing to do means I’m now writing a blog post after over a year!
+
+<!--end-excerpt-->
 
 ## Indicators of a useful period of time
 
@@ -33,7 +35,7 @@ This is the hardest one to define but irrespective of your opinions about organi
 
 There have been times where I prioritised my personal life over work. I still did my job but I wasn’t really optimising for career growth. It’s good to acknowledge this as an indicator because you may want to prioritise it higher or lower in different phases of your life.
 
-<TODO>While it’s mostly 
+<!-- <TODO>While it’s mostly  -->
 
 ## Are these indicators equally important?
   
@@ -41,14 +43,21 @@ I started with equal weights and realised that I’ve always optimised my career
 
 I set the weight for growth as 40%, and impact, culture and life at 20% each. Anything below 50 marks a wasteful period in the career and staying above 75 is optimal.
 
-The weights also lead to interesting combinations:
-Impact + Culture: You love the mission and put ridiculous hours at work but you stay within your area of expertise and don’t look for opportunities to grow. You often feel you are doing great but this is toil and can often cause burnout.
-Culture + Life: You love working with your team and the job allows you to balance your work and personal life. But you aren’t learning or having any meaningful impact. These jobs/teams are often the hardest to quit but if you want to have a purposeful, rewarding career you need to identify these and move on.
-Growth + Impact/Culture/Life: You can have short stints in your career where you focus on growth and ignore a couple of other parameters. I said short stint because it’s very likely that the focus on growth will help increase your impact, allow you to make more time for your personal life or at least make it easier to find a new job that’s a better cultural fit.
+The weights also lead to interesting combinations and I'll try to give a few examples of the scenarios.
+#### Impact + Culture
+You love the mission and put ridiculous hours at work but you stay within your area of expertise and don’t look for opportunities to grow. You often feel you are doing great but this is toil and can often cause burnout.
+
+#### Culture + Life
+
+You love working with your team and the job allows you to balance your work and personal life. But you aren’t learning or having any meaningful impact. These jobs/teams are often the hardest to quit but if you want to have a purposeful, rewarding career you need to identify these and move on.
+
+#### Growth + Impact/Culture/Life
+
+You can have short stints in your career where you focus on growth and ignore a couple of other parameters. I said short stint because it’s very likely that the focus on growth will help increase your impact, allow you to make more time for your personal life or at least make it easier to find a new job that’s a better cultural fit.
 
 ## Reflecting on my career
 The whole point of this exercise was to apply this to my own career and after spending all the time identifying these indicators and did do that. I was obviously disappointed to see that I wasted over 4 years of my career but all the retrospection was totally worth it and I was pleased to see an overall upwards trend. I can’t wait to utilise this to help others in their careers.
-
+  
 ![Pie Chart that shows  69% of my career as useful and 31% as wasted]({{ site.baseurl }}/assets/useful_or_wasted.png){: .post-image}
   
 ![Career Analysis chart showing percentages for every six months and a trend line]({{ site.baseurl }}/assets/career_analysis.png){: .post-image}
@@ -57,5 +66,4 @@ The period that really stood out to me was the first 4.5 years of my career. I w
 
 I could go into a lot more detail but that’s probably best left for a future post. Go and spend some time reflecting on your own career, I promise it’s worth the effort! 
 
-PS: I’ve shared a Google Sheets template that you can use to see the results and plot charts similar to what I shared.
-...
+PS: I’ve [shared a Google Sheets template](url) that you can use to see the results and plot charts similar to what I shared.
