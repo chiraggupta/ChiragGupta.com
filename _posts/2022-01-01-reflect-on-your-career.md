@@ -5,7 +5,7 @@ date: 2022-01-01 10:00:01 +0100
 categories: blog
 ---
 
-A few years ago my wife started a yearly journal where we write about the last year and set goals for the new year. I was going about doing my bit for 2021 but that spiralled me into reflecting upon my whole career. I read [this excellent article about wasting your career](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) and got inspired to go through the exercise. I soon realised that while it's excellent advice, the indicators don’t exactly match my criteria of defining a wasteful period so, [obviously](https://xkcd.com/927/), I decided to define my own.
+A few years ago my wife started a yearly journal where we write about the last year and set goals for the new year. I was going about doing my bit for 2021 but that led me to reflect upon my whole career. I read [this excellent article about wasting your career](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) and got inspired to go through the exercise. I soon realised that while it's excellent advice, the indicators don’t exactly match my criteria of defining a wasteful period so, [obviously](https://xkcd.com/927/), I decided to define my own.
 
 ## Indicators of a useful period in your career
 
