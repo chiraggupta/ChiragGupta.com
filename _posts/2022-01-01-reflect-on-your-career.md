@@ -11,7 +11,8 @@ A few years ago my wife started a yearly journal where we write about the last y
 
 ## Indicators of a useful period of time
 
-### 1. Growth: What did you learn in the last six months?
+### 1. Growth
+_What did you learn in the last six months?_
 
 You can grow at work by picking up skills like writing good documents, getting better at database optimisations or doing performance reviews. These directly make you more employable and are usually listed down as requirements in job ads.
 
@@ -19,19 +20,22 @@ You could also grow by gaining unique experience e.g. helping grow your org from
 
 I try not to associate growth with promotions and titles because they mean very different things in different jobs but if you have stayed in the same job for very long, you could use it as a complementary indicator.
 
-### 2. Impact: What did you accomplish over the last six months?
+### 2. Impact
+#### What did you accomplish over the last six months?
 
 There are many many ways you can have impact but it should be connected to your work's mission and goals. You could have direct impact like saving money for the company, shipping a product or feature or helping them grow to a new market. You could also have indirect impact such as making critical systems faster or more efficient, building the localisation system that enables multiple language support, or coaching people in your team to help them deliver faster.
 
 Many of you would already be familiar with writing down your impact over the last six months for performance reviews, but if you don't do those think about how you spent the majority of your time and how that contributed to your team's goals. If you are struggling to connect your work with the impact it had or will have, I would highly recommend talking to your line manager about this. Understanding your work’s impact is essential to having a purposeful career.
 
 
-### 3. Culture: Did you find it easy to fit in and belong or were you passionate about the mission?
+### 3. Culture
+##### Did you find it easy to fit in and belong or were you passionate about the mission?
 
 This is the hardest one to define but irrespective of your opinions about organisational culture, you can’t deny that everyone holds some baseline expectations for their teams and companies. For some, if they believe in the company's values and mission, they are willing to tolerate any kind of team and colleagues. For others, the team they interact with day to day is the most important but they don’t care so much about what the company stands for or promotes. You may belong to one of these categories or others but it’s important to define what’s important to you and if you got that in your job in the last six months.
 
 
-### 4. Life: Were you able to balance your work with what's important in your personal life?
+### 4. Life
+###### Were you able to balance your work with what's important in your personal life?
 
 There have been times where I prioritised my personal life over work. I still did my job but I wasn’t really optimising for career growth. It’s good to acknowledge this as an indicator because you may want to prioritise it higher or lower in different phases of your life.
 
