@@ -60,12 +60,13 @@ You can have short stints in your career where you focus on growth and ignore a 
 
 ## Reflecting on my career
 ![Pie Chart that shows  69% of my career as useful and 31% as wasted]({{ site.baseurl }}/assets/useful_or_wasted.png){: .post-image}
-How much time did I waste? {: .post-image-label}
+ {: .post-image-label} How much time did I waste?
 
 The whole point of this exercise was to apply this to my own career and after spending all the time identifying these indicators, I did finally get to that. I was obviously disappointed to see that I wasted over 4 years of my career but all the retrospection felt really helpful so I decided to analyse the peaks and troughs and drew a trend line on the series.
 
 ![Career Analysis chart showing percentages for every six months and a trend line]({{ site.baseurl }}/assets/career_analysis.png){: .post-image}
-How does my career look on a graph {: .post-image-label}
+{:.post-image-label}
+How does my career look on a graph?
 
 The period that stood out to me was the first 4.5 years of my career. I went straight from university to a [large software company](https://en.wikipedia.org/wiki/Oracle_Corporation), learned a lot but also got rather comfortable with my role and team. I stayed in a bubble where most of my friends worked at the same place and it made it really hard to see what I was missing out. I waited too long to switch and ended up picking the first job that felt different and paid better. It was clearly a rushed decision and ended up being much worse for my career. Until I switched jobs yet again, I had little idea of what a rewarding and high growth job looks like. This is why I really appreciate folks who have worked hard to build all the software career communities that make it easy to see what you might be missing. 
 
