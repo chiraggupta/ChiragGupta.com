@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to reflect on your career?’
-date: 2022-01-01 10:00:01 +0100
+title: How to reflect on your career?
+date: 2022-01-01 08:00:01 +0100
 categories: blog
 ---
 
@@ -39,7 +39,7 @@ This is the hardest one to define but irrespective of your opinions about organi
 
 There have been times where I prioritised my personal life over work. I still did my job but I wasn’t really optimising for career growth. It’s good to acknowledge this as an indicator because you may want to prioritise it higher or lower in different phases of your life.
 
-<!-- <TODO>While it’s mostly  -->
+While I mostly consider this as a work-life balance indicator, it's okay to tweak this into fit what's important to you. It might be important for you to make loads of money becuase you want to [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) and a job lets you optimise for that for a few years, go for it! Obviously limit this to a few years because not focusing on your health _will_ lead to burnout.
 
 ## Are these indicators equally important?
   
