@@ -5,12 +5,10 @@ Personal blog/website [ChiragGupta.com](https://ChiragGupta.com)
 - [Jekyll 4.1.0](https://jekyllrb.com/)
 - [Minima theme](https://github.com/jekyll/minima) inlined and customised
 - [GoatCounter](https://chirag.goatcounter.com)
-- [Netlify](https://app.netlify.com/sites/chatty-kikwi-42/deploys)
-
+- [Cloudflare](https://dash.cloudflare.com/8770a1cfbb94ead2ebefa22465e69c07/pages/view/chiraggupta)
   - Build command: `jekyll build`
   - Publish directory: `_site/`
   - Environment variables: `JEKYLL_ENV=production`
-  - 🔜 Cloudflare
 
 ## Running locally
 
