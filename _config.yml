@@ -29,7 +29,7 @@ linkedin_username: echirag
 instagram_username: chiraggupta
 social_links_in_footer: false
 
-goat_counter: chirag
+# goat_counter: chirag
 
 excerpt_separator: <!--end-excerpt-->
 permalink: /:categories/:title

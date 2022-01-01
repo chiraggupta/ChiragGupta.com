@@ -4,7 +4,7 @@ Personal blog/website [ChiragGupta.com](https://ChiragGupta.com)
 
 - [Jekyll 4.1.0](https://jekyllrb.com/)
 - [Minima theme](https://github.com/jekyll/minima) inlined and customised
-- [GoatCounter](https://chirag.goatcounter.com)
+<!-- - [GoatCounter](https://chirag.goatcounter.com) -->
 - [Cloudflare](https://dash.cloudflare.com/8770a1cfbb94ead2ebefa22465e69c07/pages/view/chiraggupta)
   - Build command: `jekyll build`
   - Publish directory: `_site/`
