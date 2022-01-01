@@ -61,7 +61,8 @@ You can have short stints in your career where you focus on growth and ignore a 
 ## Reflecting on my career
 ![Pie Chart that shows  69% of my career as useful and 31% as wasted]({{ site.baseurl }}/assets/useful_or_wasted.png){: .post-image}
 
-How much time did I waste? {: .post-image-label} 
+How much time did I waste?
+{: .post-image-label} 
 
 The whole point of this exercise was to apply this to my own career and after spending all the time identifying these indicators, I did finally get to that. I was obviously disappointed to see that I wasted over 4 years of my career but all the retrospection felt really helpful so I decided to analyse the peaks and troughs and drew a trend line on the series.
 
