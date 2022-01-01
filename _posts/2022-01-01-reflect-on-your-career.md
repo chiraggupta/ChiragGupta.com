@@ -64,7 +64,7 @@ You can have short stints in your career where you focus on growth and ignore a 
 How much time did I waste?
 {: .post-image-label} 
 
-The whole point of this exercise was to apply this to my own career and after spending all the time identifying these indicators, I did finally get to that. I was obviously disappointed to see that I wasted over 4 years of my career but all the retrospection felt really helpful so I decided to analyse the peaks and troughs and drew a trend line on the series.
+The whole point of this exercise was to apply this to my own career and after spending all the time identifying these indicators and I did finally get to that. The result was rather disappointing - I had wasted 31% of my career (over 4 years!) but all the retrospection felt really helpful so I decided to analyse the peaks and troughs and drew a trend line on the series. Thankfully that showed that my career is on slow but upward trajectory.
 
 ![Career Analysis chart showing percentages for every six months and a trend line]({{ site.baseurl }}/assets/career_analysis.png){: .post-image}
 
