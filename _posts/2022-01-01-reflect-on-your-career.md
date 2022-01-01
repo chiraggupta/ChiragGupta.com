@@ -5,7 +5,7 @@ date: 2022-01-01 10:00:01 +0100
 categories: blog
 ---
 
-A few years ago my wife started a yearly journal where we write about the last year and set goals for the new year. I was going about doing my bit for 2021 but that spiralled me into reflecting upon my whole career. I read [this excellent article about wasting your career](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) and realised that while it's excellent advice, the indicators don’t exactly match my criteria of defining a wasteful period in my career. So [obviously](https://xkcd.com/927/), I decided to define my own set of indicators.
+A few years ago my wife started a yearly journal where we write about the last year and set goals for the new year. I was going about doing my bit for 2021 but that spiralled me into reflecting upon my whole career. I read [this excellent article about wasting your career](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) and got inspired to go through the exercise. I soon realised that while it's excellent advice, the indicators don’t exactly match my criteria of defining a wasteful period so, [obviously](https://xkcd.com/927/), I decided to define my own.
 
 ## Indicators of a useful period in your career
 
@@ -69,7 +69,7 @@ The whole point of this exercise was to apply this to my own career and after sp
 ![Career Analysis chart showing percentages for every six months and a trend line]({{ site.baseurl }}/assets/career_analysis.png){: .post-image}
 
 How does my career look on a graph?
-{:.post-image-label}
+{: .post-image-label}
 
 The period that stood out to me was the first 4.5 years of my career. I went straight from university to a large software company, learned a lot but also got rather comfortable with my role and team. I stayed in a bubble where most of my friends worked at the same place and it made it really hard to see what I was missing out. I waited too long to switch and ended up picking the first job that felt different and paid better. It was clearly a rushed decision and ended up being much worse for my career. Until I switched jobs yet again, I had little idea of what a rewarding and high growth job looks like. This is why I really appreciate folks who have worked hard to build all the software career communities that make it easy to see what you might be missing. 
 
