@@ -14,7 +14,7 @@ _What did you learn in the last six months?_
 
 You can grow at work by picking up skills like writing good documents, getting better at database optimisations or doing performance reviews. These directly make you more employable and are usually listed down as requirements in job ads.
 
-You can also grow by gaining unique experiences for e.g. helping grow your org from 5 to 20 engineers or working on a service that scales from 100k to 5 million users. In both of these examples you are likely to face and solve problems that will help form a playbook for the future. These experiences aren't always easy to quantify but they will define your career.
+You can also grow by gaining unique experiences e.g. helping grow your org from 5 to 20 engineers or working on a service that scales from 100k to 5 million users. In both of these examples you are likely to face and solve problems that will help form a playbook for the future. These experiences aren't always easy to quantify but they will define your career.
 
 I try not to associate growth with promotions because they mean different things in different jobs but if you have stayed in the same job for very long, you could use that as a complementary indicator.
 
@@ -23,7 +23,7 @@ I try not to associate growth with promotions because they mean different things
 ### 2. Impact
 _What did you accomplish over the last six months?_
 
-There are many ways you can have impact but ideally it must be connected to your work's mission and goals. You could have direct impact like saving money for the company, launching a succesful product or helping them grow to a new market. You could also have indirect impact such as making critical systems faster and more efficient, building the localisation system that enables multiple language support, or coaching people in your team to help them deliver faster.
+There are many ways you can have impact but ideally it must be connected to your work's mission and goals. You could have direct impact like saving money for the company, launching a successful product or helping them grow to a new market. You could also have indirect impact such as making critical systems faster and more efficient, building the localisation system that enables multiple language support, or coaching people in your team to help them deliver faster.
 
 Many of you would already be familiar with writing this down for your performance reviews, but if you don't do those think about how you spent the majority of your time and how that contributed to your team or company's goals. If you are struggling to connect your work with the impact it had or will have, I would highly recommend talking to your line manager about this. Understanding your work’s impact is essential to having a purposeful career.
 
@@ -39,7 +39,7 @@ _Were you able to balance your work with what's important in your personal life?
 
 There have been times where I prioritised my personal life over work. I still did my job but I wasn’t really optimising for career growth. It’s good to acknowledge this as an indicator because you may want to prioritise it higher or lower in different phases of your life.
 
-While I persnally consider this as a work-life balance indicator, you can to tweak it to fit what's important to you. It might be important for you to make a lot of money becuase you want to [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) and if your job lets you optimise for that, it's a good choice for your life! Obviously limit this to a few years because not focusing on your health _will_ lead to burnout.
+While I personally consider this as a work-life balance indicator, you can to tweak it to fit what's important to you. It might be important for you to make a lot of money becuase you want to [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) and if your job lets you optimise for that, it's a good choice for your life! Obviously limit this to a few years because not focusing on your health _will_ lead to burnout.
 
 ## Are these indicators equally important?
   
@@ -48,7 +48,7 @@ I started with equal weights and realised that I’ve generally optimised my car
 I've set the weight for growth to 40% and the other three indicators to 20%. Anything below 50 marks a wasted period and ideally you should try to stay above 75. With these weights in place, the combinations become quite interesting and I've shared a few examples ahead.
 
 #### Impact + Culture 🔴
-You love the mission and put ridiculous hours at work but you stay within your area of expertise and don’t look for opportunities to grow. During this period people often feel they are doing great but I consider this as wasted period where you toil and increase chances of burnout.
+You love the mission and put ridiculous hours at work but you stay within your area of expertise and don’t look for opportunities to grow. During this period people often feel they are doing great but I consider this as a wasted period where you toil and increase chances of burnout.
 
 #### Culture + Life 🔴
 
@@ -56,7 +56,7 @@ You love working with your team and the job allows you to balance your work and 
 
 #### Growth + Impact/Culture/Life 🟢
 
-You can have short stints in your career where you focus on growth and ignore a couple of other parameters. These stints are generally short because typically the focus on growth will help increase your impact, allow you to make more time for your personal life or at least make it easier to find a new job that’s a better cultural fit.
+You can have short periods in your career where you focus on growth and ignore a couple of other parameters. These are generally short because typically the focus on growth will help increase your impact, allow you to make more time for your personal life or at least make it easier to find a new job that’s a better cultural fit.
 
 ## Reflecting on my career
 ![Pie Chart that shows  69% of my career as useful and 31% as wasted]({{ site.baseurl }}/assets/useful_or_wasted.png){: .post-image}
@@ -64,7 +64,7 @@ You can have short stints in your career where you focus on growth and ignore a 
 How much time did I waste?
 {: .post-image-label} 
 
-The whole point of this exercise was to apply this to my own career and after spending all the time identifying these indicators and I did finally get to that. The result was rather disappointing - I had wasted 31% of my career (over 4 years!) but all the retrospection felt really helpful so I decided to analyse the peaks and troughs and drew a trend line on the series. Thankfully that showed that my career is on slow but upward trajectory.
+The whole point of this exercise was to apply this to my own career and after spending all the time identifying these indicators, and I did finally get to that. The result was rather disappointing - I had wasted 31% of my career (over 4 years!) but all the retrospection felt really helpful so I decided to analyse the peaks and troughs and drew a trend line on the series. Thankfully that showed that my career is on a slow but upward trajectory.
 
 ![Career Analysis chart showing percentages for every six months and a trend line]({{ site.baseurl }}/assets/career_analysis.png){: .post-image}
 
